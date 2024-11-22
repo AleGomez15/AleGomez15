@@ -1,9 +1,6 @@
-#Explicacion del programa 1
-##Descripcio del programa 
+#Programa 1
+#Saludo1
 
-'''python 
-def saludo():
- print("Hola mundo")
- '''
+# saludo_simple.py
+print("¡Hola, bienvenido a GitHub!")
 
- El comando 'def' indica que estoy creando una funcion con el nombre saludo
