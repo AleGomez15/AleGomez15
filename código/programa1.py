@@ -4,9 +4,6 @@
 '''python 
 def saludo():
  print("Hello, you")
-
- #Lamando a la funcion 
- saludo()
  '''
 
  El comando 'def' indica que estoy creando una funcion con el nombre saludo
