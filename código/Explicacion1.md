@@ -2,6 +2,7 @@
 
 #Descripcion
 
+'''pyhon
 print("¡Hola, mundo!")
 
 La función print: La función print en Python se utiliza para mostrar texto o datos en la consola.
