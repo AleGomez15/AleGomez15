@@ -3,7 +3,7 @@
 
 '''python 
 def saludo():
- print("Hello, you")
+ print("Hola mundo")
  '''
 
  El comando 'def' indica que estoy creando una funcion con el nombre saludo
