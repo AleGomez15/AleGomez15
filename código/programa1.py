@@ -2,5 +2,5 @@
 #Saludo1
 
 # saludo_simple.py
-print("¡Hola, bienvenido a GitHub!")
+print("¡Hola, mundo")
 
