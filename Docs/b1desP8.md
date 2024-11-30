@@ -1,8 +1,8 @@
-##Descripcion del Prgrama 8 del bloque1
-##Este programa convierte un número de días ingresado por el usuario
+## Descripcion del Prgrama 8 del bloque1
+## Este programa convierte un número de días ingresado por el usuario
 a distintas unidades de tiempo: horas, minutos y meses. Aquí está la explicación detallada:
 
-Descripción del programa:
+
 Entrada del usuario:
 ´´´ Python
 dias = int(input("ingrese los dias: "))
