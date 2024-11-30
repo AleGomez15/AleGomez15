@@ -1,7 +1,8 @@
-##Descrpcion del Prpgrama 10
+##Descrpcion del Prpgrama 10 del bloque1
 ##Este código en Python tiene el propósito de demostrar el uso de caracteres especiales y secuencias 
 de escape dentro de cadenas de texto. Aquí está una descripción detallada de lo que hace:
-Encabezado de comentarios: Proporciona información sobre el programa, como el título, la fecha de creación y el nombre del autor.
+Encabezado de comentarios: Proporciona información sobre el programa, como el título, 
+la fecha de creación y el nombre del autor.
 
 ´´´ Python
 # programa 1.10 caracteres especiales
