@@ -1,6 +1,6 @@
-##Descripcion del programa 5 del bloque 1
+# Descripcion del programa 5 del bloque 1
 
-##Funcionamiento del programa
+## Funcionamiento del programa
  Entrada de datos
 ''' Python 
 num1 = int(input("ingresa el primer numero: "))
