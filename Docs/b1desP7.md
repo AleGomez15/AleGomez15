@@ -1,4 +1,4 @@
-##Descripcion del Pograma 7 del bloque1
+## Descripcion del Programa 7 del bloque1
 Este programa calcula el área y el perímetro de un círculo a 
 partir del radio ingresado por el usuario.
 
