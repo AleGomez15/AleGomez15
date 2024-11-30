@@ -1,10 +1,10 @@
-##Descrpcion del programa 6 del bloque1
-El programa está diseñado para calcular el área de un triángulo utilizando la fórmula matemática básica:
+## Descrpcion del programa 6 del bloque1
+ El programa está diseñado para calcular el área de un triángulo utilizando la fórmula matemática básica:
 
-Solicitar datos al usuario
+Solicitar datos al usuario.
 ''' Python 
-base = float(input("Introduce la base del triangulo: "))
-altura = float(input("Introduce la altura del triangulo: "))
+ base = float(input("Introduce la base del triangulo: "))
+ altura = float(input("Introduce la altura del triangulo: "))
 ''' Python
 input: Se utiliza para pedir al usuario que ingrese valores.
 float: Convierte el valor ingresado (que inicialmente es texto) en un número decimal.
