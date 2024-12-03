@@ -6,10 +6,10 @@ Estructura del código
 El código se compone de tres secciones, cada una de las cuales responde a una pregunta diferente.
 
 Sección 1: Número de días de la semana
-''' python
+```python
 print("Cuantos días tiene la semana ")
 print("7")
-''' python
+```
 
 - El código utiliza la función print() para imprimir texto en la pantalla.
 - No hay variables ni operaciones matemáticas complejas en este código.
