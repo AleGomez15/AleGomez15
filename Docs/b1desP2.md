@@ -3,9 +3,9 @@ Este código es un programa simple escrito en Python que solicita el
 nombre del usuario e imprime un mensaje personalizado con el nombre ingresado. 
 
 
-''' python 
+``` python 
 print("¡Hola! " + nombre + " como te encuentras el día de hoy")
-''' python
+```
 
 -El código utiliza la función input() para obtener entrada del usuario.
 -La variable nombre se utiliza para almacenar la entrada del usuario.
