@@ -1,7 +1,7 @@
 Ejercicio 1 Equivalencia elif  else + if
 # Programa 1 mascotas
 # Fecha: 2024/10/28
-# Elaborado por: Jazmin Macias Sabas
+# Elaborado por: Alejandra Guadalupe Gomez Cruz
 mascota = input("Ingresa el tipo de mascota: ")
 if "perro" in mascota:
    print("Es un perro")
