@@ -2,18 +2,18 @@
 Este código en Python tiene el propósito de demostrar el uso de caracteres especiales y secuencias 
 de escape dentro de cadenas de texto.
 
-´´´ Python
+``` Python
 #programa 1.10 caracteres especiales
 #fecha: 17/10/2024
 #nombre: Alejandra Guadalupe Gomez Cruz
-´´´ Python
+```
 Usa \t para insertar un tabulador entre los caracteres. La salida será
 
 estoy feliz ☺   ☕   ♐
 
-´´´ Python
+``` Python
 print("alineando \t\u263A")
-´´´ Python
+```
 
 
 
