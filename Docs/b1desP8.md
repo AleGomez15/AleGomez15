@@ -4,17 +4,17 @@ a distintas unidades de tiempo: horas, minutos y meses. Aquí está la explicaci
 
 
 Entrada del usuario:
-´´´ Python
+``` Python
 dias = int(input("ingrese los dias: "))
-´´´ Python
+```
 Solicita al usuario que ingrese un número entero representando la cantidad de días.
 
 Salida de resultados:
-´´´ Python 
+``` Python 
 print("las horas de los dias son: " + str(horas))
 print("los minutos de los dias son: " + str(minutos))
 print("los meses de los dias son: " + str(meses))
-´´´Python
+```
 Muestra los resultados calculados (horas, minutos y meses) al usuario.
 
 Resumen:
