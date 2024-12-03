@@ -9,9 +9,9 @@ Muestra en pantalla los resultados del área y el perímetro.
 
 Ejemplo de ejecución:
 Si el usuario ingresa 5 como radio:
-´´´ Python
+```Python
 ingresa el valor del radio: 5
-´´´ Python
+```
 
 El programa toma el radio como entrada, calcula 
 el área y el perímetro del círculo usando las fórmulas estándar,
