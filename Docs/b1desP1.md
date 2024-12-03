@@ -4,9 +4,9 @@ Este código es un programa simple escrito en Python que muestra el nombre de la
 
 
 El código se compone de una sola línea:
-''' python
+``` python
  print ("Mi nombre es Alejandra")
-''' python
+```
 Esta línea utiliza la función print() para imprimir un mensaje en la pantalla. 
 El mensaje incluye el nombre de la autora del programa.
 
