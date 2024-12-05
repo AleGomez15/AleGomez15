@@ -1,4 +1,4 @@
-## Explicacion del programa 2
+## Explicacion del programa 2 de imprimir un saludo
 ## Descripción 2
 
 String: texto = "Hola, este es un ejemplo de string"
