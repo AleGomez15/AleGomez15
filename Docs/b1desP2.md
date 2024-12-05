@@ -1,4 +1,4 @@
-## Descripcion del programa 2 del bloque 1
+## Descripción del programa 2 del bloque 1
 Este código es un programa simple escrito en Python que solicita el
 nombre del usuario e imprime un mensaje personalizado con el nombre ingresado. 
 
