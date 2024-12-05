@@ -1,4 +1,4 @@
-## Descripcion del programa 1 del bloque 1 
+## Descripción del programa 1 del bloque 1 
 Este código es un programa simple escrito en Python que muestra el nombre de la autora del programa.
 
 
