@@ -1,4 +1,4 @@
-## Descrpcion del Prpgrama 10 del bloque1
+## Descripción del Prpgrama 10 del bloque1
 Este código en Python tiene el propósito de demostrar el uso de caracteres especiales y secuencias 
 de escape dentro de cadenas de texto.
 
