@@ -1,4 +1,4 @@
-## Descripcion del Prgrama 8 del bloque1
+## Descripción del Prgrama 8 del bloque1
 ## Este programa convierte un número de días ingresado por el usuario
 a distintas unidades de tiempo: horas, minutos y meses. Aquí está la explicación detallada:
 
